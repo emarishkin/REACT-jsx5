@@ -16,7 +16,7 @@ setInterval(()=>setNow(new Date()),1000)
                 <h1>Мое творчество</h1>
             </div>
             <nav style={{display:'flex',gap:20}}>
-                <a href="#">Главная</a>
+                <a href="https://result.school/">Главная</a>
                 <a href="#">Обучение</a>
                 <a href="#">Диагностика</a>
                 <a href="#">Отзывы</a>
